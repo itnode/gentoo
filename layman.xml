@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay type="git" src="https://github.com/itnode/gentoo.git" contact="itnode" name="itnode">
+    <link>https://github.com/itnode/gentoo</link>
+    <description>itnodes gentoo overlay</description>
+  </overlay>
+</layman>

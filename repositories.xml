@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+  <repo quality="testing" status="unofficial">
+    <name>itnode</name>
+    <description lang="en">itnodes HTPC overlay</description>
+    <homepage>https://github.com/itnode/gentoo</homepage>
+    <owner>
+      <email>itnode</email>
+      <name>itnode</name>
+    </owner>
+    <source type="git">https://github.com/itnode/gentoo.git</source>
+    <source type="git">git://github.com/itnode/gentoo.git</source>
+  </repo>
+</repositories>
